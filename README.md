@@ -1,0 +1,2 @@
+# EntityFactory
+ Repository of "EntityFactory".
