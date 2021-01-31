@@ -5,7 +5,6 @@ import org.bukkit.block.Dispenser;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.block.BlockDispenseEvent;
-
 import de.Panischer.main.Main;
 public class InfiniteDispensers implements Listener
 {
